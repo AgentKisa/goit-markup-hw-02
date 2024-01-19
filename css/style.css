@@ -117,10 +117,14 @@ a {
 /* ======workers======== */
 
 .workers {
-    background-color: #F4F4FD
+    background: var(--CLOUD, #F4F4FD);
 }
 
 .workers-list {
+    background-color: #FFFFFF;
+}
+
+.workers-itom {
     background-color: #FFFFFF;
 }
 
