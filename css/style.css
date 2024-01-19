@@ -78,6 +78,7 @@ a {
 
 .hero-btn {
     background-color: #4D5AE5;
+    color: #ffffff;
     font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -133,7 +134,8 @@ a {
 
 .workers-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
-    background-color: #FFFFFF text-align: center;
+    background-color: #FFFFFF;
+    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -142,6 +144,7 @@ a {
 
 .workers-text {
     color: var(--SLATE, #434455);
+    background-color: #FFFFFF;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
