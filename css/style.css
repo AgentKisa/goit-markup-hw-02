@@ -120,7 +120,9 @@ a {
     background-color: #F4F4FD
 }
 
-.workers-list {}
+.workers-list {
+    background-color: #FFFFFF;
+}
 
 .workers-hidden {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -134,7 +136,6 @@ a {
 
 .workers-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
-    background-color: #FFFFFF;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -144,7 +145,6 @@ a {
 
 .workers-text {
     color: var(--SLATE, #434455);
-    background-color: #FFFFFF;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
