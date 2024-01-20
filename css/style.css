@@ -120,9 +120,7 @@ a {
     background: var(--CLOUD, #F4F4FD);
 }
 
-.workers-list {
-    background-color: #FFFFFF;
-}
+.workers-list {}
 
 .workers-itom {
     background-color: #FFFFFF;
